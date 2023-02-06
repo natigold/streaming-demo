@@ -1,0 +1,30 @@
+{
+    "name": "replaced-by-user-input",
+    "description": "replaced-by-user-input",
+    "version": "0.0.1",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "aws-kcl": "^2.2.2",
+        "aws-sdk": "^2.1307.0",
+        "log4js": "^6.7.1",
+        "util": "^0.12.5"
+    },
+    "devDependencies": {
+        "jest": "^26.6.3"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "license": "Apache-2.0",
+    "keywords": [
+      "api",
+      "amazon",
+      "aws",
+      "kinesis",
+      "kinesis client library",
+      "kcl",
+      "node.js",
+      "es6"
+    ]  
+}
